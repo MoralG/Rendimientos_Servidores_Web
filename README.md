@@ -1,6 +1,6 @@
 # Rendimiento de Servidores Web. Ejecución de scripts PHP y Python
 
-![Rendimiento](image/Rendimiento.png)
+![Rendimiento](image/Rendimiento.jpg)
 
 ### Ejecución de scripts PHP
 
