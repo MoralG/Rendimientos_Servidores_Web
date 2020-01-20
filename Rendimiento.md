@@ -318,7 +318,7 @@ Las configuraciones que vamos a realizar son las siguientes:
 * nginx + gunicorn
 * nginx + uwsgi
 
-### Tarea 4 
+## Tarea 4 
 
 Documenta la instalación y configuración para cada una de las configuraciones propuestas en el ejercicio. En cada una de las configuraciones debe ejecutarse un CMS python, por ejemplo, Mezzanine.
 
